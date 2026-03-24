@@ -1,4 +1,4 @@
-# 🔥 ML Self-Learning: PyTorch Ecosystem
+# ML Self-Learning: PyTorch Ecosystem
 
 This repository tracks my independent journey through the PyTorch ecosystem, moving from foundational deep learning concepts to scalable model development with PyTorch Lightning.
 
